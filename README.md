@@ -1,6 +1,6 @@
 <h1>Numerical System Converter</h1>
 
-A program made entirely in python using the tkinter library that converts one numerical system into another.
+A program made for my systems class entirely in python using the tkinter toolkit that converts one numerical system into another.
 
 ![](https://raw.github.com/atacoi/Number-System-Converter/main/demo.gif)
 
