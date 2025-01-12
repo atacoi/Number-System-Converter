@@ -2,6 +2,8 @@
 
 A program made entirely in python using the tkinter library that converts one numerical system into another.
 
+![](https://raw.github.com/atacoi/Number-System-Converter/main/demo.gif)
+
 The following systems include 
 <ul>
   <li>Decimal</li>
