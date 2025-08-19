@@ -12,5 +12,12 @@ The following systems include
   <li>Hexadecimal</li>
 </ul>
 
-Source code is found in the ```main.py``` file. An executable can be created by running ```pyinstaller -F main.py``` in the root folder and be found in the /dist folder.
-Ensure that ```pyinstaller``` is downloaded on your computer before compiling. 
+<h2>Build Info</h2>
+
+The source code can be found in the ```main.py``` file. 
+
+An executable can be created by running ```pyinstaller -F main.py``` in the <b>root folder</b>.
+
+The executable can be found in the /dist folder.
+
+Ensure that ```pyinstaller``` is installed on your computer before compiling. 
